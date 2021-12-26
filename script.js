@@ -1,0 +1,1 @@
+const black = '#000';
